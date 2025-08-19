@@ -1,6 +1,3 @@
-Here's a clean and informative GitHub README description you can add for your project based on the `clock.py` script you provided:
-
----
 
  🕒 GUI Analog Clock using Python (Tkinter + PIL)
 
